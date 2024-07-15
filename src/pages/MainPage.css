@@ -1,0 +1,24 @@
+*{
+    font-family: "Goorm Sans", sans-serif;
+    padding: 2px;
+}
+
+hr {
+    border: none;
+    border-top: 1px solid #ccc;
+    margin: 10px 0;
+    width: 40%;
+    min-width: 400px;
+}
+
+.MainPage{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+section{
+    width: 35%;
+    min-width: 400px;
+}
