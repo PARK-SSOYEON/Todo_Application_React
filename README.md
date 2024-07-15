@@ -2,6 +2,29 @@
 
 Todo List를 추가하고 저장할 수 있는 간단한 Todo Application입니다.
 
+## 파일 구조
+```bash
+project-root/
+├── src/
+│ ├── component/
+│ │        ├── DoneList.jsx
+│ │        ├── TodoInput.css
+│ │        ├── TodoInput.jsx
+│ │        ├── TodoItem.css
+│ │        ├── TodoItem.jsx
+│ │        └── TodoList.jsx
+│ ├── hook/
+│ │     └── useLocalStorage.jsx
+│ ├── pages/
+│ │     ├── MainPage.css
+│ │     └── MainPage.jsx
+│ ├── App.css
+│ ├── App.js
+│ └── index.js
+├── package.json
+└── README.md
+```
+
 ## 예시 (Screenshot)
 
 <img src="img/TodoListReactscreenshot.gif" width="720" height=auto/>
