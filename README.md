@@ -47,7 +47,7 @@ project-root/
 ## 설치 (Installation)
 ```bash
 git clone https://github.com/PARK-SSOYEON/Todo_Aplication_React.git
-cd repo
+cd Todo_Aplication_React
 npm install
 ```
 
